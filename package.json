@@ -1,0 +1,12 @@
+{
+  "name": "contact-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Xuan Zhang",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.17.1",
+    "inquirer": "^6.2.0",
+    "mongoose": "^5.2.12"
+  }
+}
